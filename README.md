@@ -30,4 +30,4 @@ Planning to build some TUI Stuff.
 [Ion shell git hub]:https://github.com/redox-os/ion
 [Ion shell git lab]:https://gitlab.redox-os.org/redox-os/ion/
 [profile on redox os]:https://gitlab.redox-os.org/bool_purist
-[th usermanagement]:https://github.com/BoolPurist/usermgmt
+[th usermanagement]:https://github.com/th-nuernberg/usermgmt
