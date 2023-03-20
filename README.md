@@ -7,7 +7,7 @@ coolest way to work with a computer 🔥 ... 😄.
 
 ## What occupies me
 
-During my tour through of programming languages I met Ferris and become a aspiring rustacean 🦀 
+During my tour through several programming languages I met Ferris and become a aspiring rustacean 🦀 
 
 ## Current Projects in rust.
 
@@ -17,6 +17,7 @@ I develop a few CLI Applications
 - [Save and load folder paths]
 - Contributing to Ion shell, default shell of redox os.
   [Link][Ion shell git lab] to repository on gitlab and [link][Ion shell git hub] to mirro on github.
+- [Contributing to a CLI application to manage users on ohm-th HPC][th usermanagement]. 
 
 Planning to build some TUI Stuff. 
 
@@ -29,3 +30,4 @@ Planning to build some TUI Stuff.
 [Ion shell git hub]:https://github.com/redox-os/ion
 [Ion shell git lab]:https://gitlab.redox-os.org/redox-os/ion/
 [profile on redox os]:https://gitlab.redox-os.org/bool_purist
+[th usermanagement]:https://github.com/BoolPurist/usermgmt
