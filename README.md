@@ -20,7 +20,12 @@ I develop a few CLI Applications
 
 Planning to build some TUI Stuff. 
 
+## Other places where I contribute/develop
+
+- As [bool_purist][profile on redox os] on the gitlab of redox os. 
+
 [Tool to manage daily, monthly and yearly journals]:https://github.com/BoolPurist/daily_ruster_man
 [Save and load folder paths]:https://github.com/BoolPurist/Rust_Fav_Fold
 [Ion shell git hub]:https://github.com/redox-os/ion
 [Ion shell git lab]:https://gitlab.redox-os.org/redox-os/ion/
+[profile on redox os]:https://gitlab.redox-os.org/bool_purist
