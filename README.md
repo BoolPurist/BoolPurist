@@ -21,20 +21,6 @@ I mainly developed a few CLI Applications
 
 Planning to build some TUI Stuff. 
 
-## Significant Projects in C#
-
-So far I worked on GUI applications in my spare time.
-
-- I programmed a C# [GUI application][cs_avalonia_ui] to manage notes. I decided to do it with an Avalonia UI not being a framework by Microsoft.
-- Woking on a [GUI calculator][cs_wpf_calculator] with WPF Framework as the foundation.
-
-##  Significant Projects in JavaScript
-
-- [Website][js_stopwatches] to manage stopwatches and countdowns.
-- [Website][js_web_todo_list] to manage Todos.
-- [Website][js_web_calender] as calender so all days and week calender number of a certain month.
-
-
 ## Other places where I contribute/develop
 
 - As [bool_purist][profile on redox os] on the gitlab of redox os. 
